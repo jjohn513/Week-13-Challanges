@@ -1,7 +1,7 @@
 {
   "name": "@jjohn492/week-13-challenges",
   "version": "1.0.0",
-  "description": "",
+  "description": "adding some words",
   "main": "index.js",
   "scripts": {
     "test": "node easy.js"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/jjohn513/Week-13-Challanges#readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
