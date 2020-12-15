@@ -1,0 +1,22 @@
+{
+  "name": "@jjohn492/week-13-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node easy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjohn513/Week-13-Challanges.git"
+  },
+  "author": "Jared Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjohn513/Week-13-Challanges/issues"
+  },
+  "homepage": "https://github.com/jjohn513/Week-13-Challanges#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
