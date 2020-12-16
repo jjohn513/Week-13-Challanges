@@ -16,8 +16,6 @@
     "url": "https://github.com/jjohn513/Week-13-Challanges/issues"
   },
   "homepage": "https://github.com/jjohn513/Week-13-Challanges#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
